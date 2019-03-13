@@ -1,0 +1,38 @@
+.meter {
+    height: 50px;
+    width: 65%;
+    margin: auto;
+    margin-bottom: 15px;
+    position: relative;
+    border-radius: 25px;
+    padding: 5px;
+    border: #3B2349 solid 5px;
+}
+
+.skill-filler {
+    padding: 4px;
+    padding-left: 12px;
+    height: 100%;
+    border-radius: 20px;
+    background-color: #3B2349;
+    animation: hid 3.5s ease-out;
+}
+
+.skill-filler.in-view {
+    animation: anim 2.6s ease-in-out;
+    visibility: visible;
+}
+
+@keyframes anim {
+    0% {
+        width: 0px;
+    }
+}
+
+@keyframes hid {
+    0% {}
+
+    100% {
+        width: 0px;
+    }
+}

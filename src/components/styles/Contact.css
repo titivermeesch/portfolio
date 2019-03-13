@@ -1,0 +1,30 @@
+.contact-holder {
+    background-color: #3B2349;
+    width: 100%;
+    margin: 0 auto;
+    padding: 50px;
+}
+
+.contact-title {
+    font-size: 3rem;
+}
+
+input {
+    border: none;
+    margin: 5px;
+    height: 30px;
+    border-radius: 25px;
+    padding-left: 10px;
+    display: inline;
+}
+
+textarea {
+    display: block;
+    margin: 5px;
+    margin-top: 25px;
+    height: 200px;
+    width: 97%;
+    border-radius: 25px;
+    padding-left: 15px;
+    padding-top: 5px;
+}

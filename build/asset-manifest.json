@@ -1,0 +1,20 @@
+{
+  "main.css": "/static/css/main.9d94667b.chunk.css",
+  "main.js": "/static/js/main.a9ace560.chunk.js",
+  "main.js.map": "/static/js/main.a9ace560.chunk.js.map",
+  "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+  "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+  "static/js/2.379d22b7.chunk.js": "/static/js/2.379d22b7.chunk.js",
+  "static/js/2.379d22b7.chunk.js.map": "/static/js/2.379d22b7.chunk.js.map",
+  "index.html": "/index.html",
+  "precache-manifest.4e09e1bd4169fbae690f6b20b5ea0ac7.js": "/precache-manifest.4e09e1bd4169fbae690f6b20b5ea0ac7.js",
+  "service-worker.js": "/service-worker.js",
+  "static/css/main.9d94667b.chunk.css.map": "/static/css/main.9d94667b.chunk.css.map",
+  "static/media/html-certif.png": "/static/media/html-certif.3ce72908.png",
+  "static/media/js-certif.png": "/static/media/js-certif.2c1eccc4.png",
+  "static/media/portfolio.png": "/static/media/portfolio.2b7b8ec3.png",
+  "static/media/recipe.png": "/static/media/recipe.03cd4ce8.png",
+  "static/media/resume.pdf": "/static/media/resume.40faa3c7.pdf",
+  "static/media/uml-certif.PNG": "/static/media/uml-certif.ba1f5145.PNG",
+  "static/media/web-certif.png": "/static/media/web-certif.34c6450d.png"
+}

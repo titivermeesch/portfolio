@@ -82,6 +82,19 @@ class Timeline extends Component {
 								<time>January 2019</time> Started as an intern at <strong>PinUp</strong>
 							</div>
 						</li>
+						<li>
+							<div>
+								<time>January 2019</time> Stopped as an intern at <strong>PinUp</strong>{' '}
+								due to illegal activities (not paying,...)
+							</div>
+						</li>
+						<li>
+							<div>
+								<time>October 2019</time> Started as Full Stack Developer at{' '}
+								<strong>IDRONECT</strong>
+								<br /> I just live it
+							</div>
+						</li>
 					</ul>
 				</section>
 			</div>

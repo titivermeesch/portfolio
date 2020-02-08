@@ -1,4 +1,4 @@
-import React, { Component, useEffect } from 'react'
+import React, { useEffect } from 'react'
 import './../styles/Timeline.css'
 import HeadTitle from '../common/HeadTitle'
 

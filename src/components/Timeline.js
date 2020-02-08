@@ -1,5 +1,5 @@
 import React, { useEffect } from 'react'
-import './../styles/Timeline.css'
+import './styles/Timeline.css'
 import HeadTitle from './HeadTitle'
 
 let items = null

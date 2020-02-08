@@ -1,66 +1,19 @@
-body {
-  margin: 0;
-  padding: 0;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
-  background-color: #1d1124;
-}
-
-hr {
-  width: 30%;
-  opacity: 0.5;
-}
-
 .title {
-  text-align: center;
-  letter-spacing: 2px;
-  margin-top: 100px;
+	text-align: center;
+	letter-spacing: 2px;
+	margin-top: 100px;
 }
-
-.introduction {
-
-  margin-top: 3%;
-  padding: 20px;
-  display: grid;
-  text-align: center;
-  background-color: #3B2349;
-}
-
-/* XS */
-@media screen and (max-width: 600px) {
-  .introduction {
-    font-size: 1.2rem;
-  }
-}
-
-/* S */
-@media screen and (min-width: 600px) {
-  .introduction {
-    font-size: 1.3rem;
-  }
-}
-
-/* M */
-@media screen and (min-width: 768px) {}
 
 /* L */
 @media screen and (min-width: 992px) {
-  .title {
-    font-size: 3rem;
-  }
-
-  .introduction {
-    font-size: 1.5rem;
-  }
+	.title {
+		font-size: 3rem;
+	}
 }
 
 /* XL */
 @media screen and (min-width: 1200px) {
-  .title {
-    font-size: 4rem;
-  }
-
-  .introduction {
-    font-size: 1.8rem;
-  }
+	.title {
+		font-size: 4rem;
+	}
 }

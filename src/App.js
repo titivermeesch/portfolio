@@ -27,6 +27,7 @@ const App = () => {
 			<Timeline />
 			<Projects />
 			<Skills />
+			<Contact />
 		</Styled>
 	)
 }

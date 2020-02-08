@@ -1,15 +1,14 @@
-import React, { Component } from 'react'
+import React from 'react'
+import HeadTitle from '../common/HeadTitle'
 
-class Contact extends Component {
-	render() {
-		return (
-			<div className="contact-holder">
-				<div className="contact-title">Contact me</div>
-				<p>Feel free to contact me if you want to get in touch with me!</p>
-				<h1>titivermeesch@gmail.com</h1>
-			</div>
-		)
-	}
+const Contact = () => {
+	return (
+		<>
+			<HeadTitle>Contact me</HeadTitle>
+			<p>Feel free to contact me if you want to get in touch with me!</p>
+			<h1>titivermeesch@gmail.com</h1>
+		</>
+	)
 }
 
 export default Contact

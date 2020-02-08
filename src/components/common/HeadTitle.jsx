@@ -14,12 +14,12 @@ const Styled = styled.div`
 	}
 `
 
-const Title = ({ content }) => (
+const HeadTitle = ({ children }) => (
 	<Styled>
 		<div className="title">
-			<strong>{content}</strong>
+			<strong>{children}</strong>
 		</div>
 	</Styled>
 )
 
-export default Title
+export default HeadTitle

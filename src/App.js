@@ -1,7 +1,7 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
 import styled from 'styled-components'
-import Title from './components/content/Title'
+import HeadTitle from './components/common/HeadTitle'
 import Bio from './components/content/Bio'
 import Introduction from './components/content/Introduction'
 import Timeline from './components/content/Timeline'
@@ -21,7 +21,7 @@ const App = () => {
 	return (
 		<Styled>
 			<Route path="/contact" component={Contact} />
-			<Title content="I am Tristan Vermeesch" />
+			<HeadTitle>I am Tristan Vermeesch</HeadTitle>
 			<hr />
 			<Bio />
 			<Introduction />

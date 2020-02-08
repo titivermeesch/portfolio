@@ -1,16 +1,15 @@
-import React, { Component } from 'react'
+import React from 'react'
 import './../styles/Projects.css'
 import Project from './Project'
+import HeadTitle from '../common/HeadTitle'
 
-class Projects extends Component {
-    render() {
-        return (
-            <div>
-                <h1 className="title">My Projects</h1>
-                <Project />
-            </div>
-        )
-    }
+const Projects = () => {
+	return (
+		<>
+			<HeadTitle>My projects</HeadTitle>
+			<Project />
+		</>
+	)
 }
 
 export default Projects

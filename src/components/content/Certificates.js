@@ -2,6 +2,7 @@ import React from 'react'
 import styled from 'styled-components'
 import './../styles/Certificates.css'
 import Certificate from './Certificate'
+import HeadTitle from '../common/HeadTitle'
 
 const Styled = styled.div`
 	.title {
@@ -22,7 +23,7 @@ const Styled = styled.div`
 const Certificates = () => {
 	return (
 		<Styled>
-			<h1 className="title">Certificates</h1>
+			<HeadTitle>Certificates</HeadTitle>
 			<div className="introduction">
 				Certificates are proof of the knowledge around a subject.
 				<br />

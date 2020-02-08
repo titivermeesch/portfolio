@@ -1,13 +1,13 @@
 import React from 'react'
 import { Route } from 'react-router-dom'
 import styled from 'styled-components'
-import HeadTitle from './components/common/HeadTitle'
-import Bio from './components/content/Bio'
-import Introduction from './components/content/Introduction'
-import Timeline from './components/content/Timeline'
-import Projects from './components/content/Projects'
-import Skills from './components/content/Skills'
-import Contact from './components/content/Contact'
+import HeadTitle from './components/HeadTitle'
+import Bio from './components/Bio'
+import Introduction from './components/Introduction'
+import Timeline from './components/Timeline'
+import Projects from './components/Projects'
+import Skills from './components/Skills'
+import Contact from './components/Contact'
 
 const Styled = styled.div`
 	hr {

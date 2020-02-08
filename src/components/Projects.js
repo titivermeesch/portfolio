@@ -1,6 +1,6 @@
 import React from 'react'
 import Project from './Project'
-import HeadTitle from '../common/HeadTitle'
+import HeadTitle from './HeadTitle'
 
 import lmc from './../../data/lmc.png'
 import recipe from './../../data/recipe.png'

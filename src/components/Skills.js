@@ -1,7 +1,7 @@
 import React from 'react'
 import './../styles/Skills.css'
 import Skill from './Skill'
-import HeadTitle from '../common/HeadTitle'
+import HeadTitle from './HeadTitle'
 
 const Skills = () => {
 	const skills = [

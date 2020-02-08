@@ -1,5 +1,4 @@
 import React from 'react'
-import './../styles/Projects.css'
 import Project from './Project'
 import HeadTitle from '../common/HeadTitle'
 

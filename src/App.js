@@ -7,7 +7,6 @@ import Introduction from './components/content/Introduction'
 import Timeline from './components/content/Timeline'
 import Projects from './components/content/Projects'
 import Skills from './components/content/Skills'
-import Certificates from './components/content/Certificates'
 import Contact from './components/content/Contact'
 
 const Styled = styled.div`
@@ -28,7 +27,6 @@ const App = () => {
 			<Timeline />
 			<Projects />
 			<Skills />
-			<Certificates />
 		</Styled>
 	)
 }
